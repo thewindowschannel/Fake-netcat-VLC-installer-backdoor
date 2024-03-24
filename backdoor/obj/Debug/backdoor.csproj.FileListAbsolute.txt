@@ -1,0 +1,16 @@
+C:\Users\thewi\Desktop\backdoor\bin\Debug\backdoor.pdb
+C:\Users\thewi\Desktop\backdoor\obj\Debug\backdoor.csproj.AssemblyReference.cache
+C:\Users\thewi\Desktop\backdoor\obj\Debug\backdoor.csproj.CoreCompileInputs.cache
+C:\Users\thewi\Desktop\backdoor\obj\Debug\backdoor.pdb
+C:\Users\thewi\Desktop\backdoor\bin\Debug\backdoor.exe
+C:\Users\thewi\Desktop\backdoor\obj\Debug\backdoor.exe
+C:\Users\thewi\Desktop\backdoor\obj\Debug\backdoor.Properties.Resources.resources
+C:\Users\thewi\Desktop\backdoor\obj\Debug\backdoor.csproj.GenerateResource.cache
+C:\Users\thewi\Documents\backdoor\obj\Debug\backdoor.Properties.Resources.resources
+C:\Users\thewi\Documents\backdoor\obj\Debug\backdoor.csproj.GenerateResource.cache
+C:\Users\thewi\Documents\backdoor\obj\Debug\backdoor.csproj.CoreCompileInputs.cache
+C:\Users\thewi\Documents\backdoor\bin\Debug\vlc-3.0.20-win64.exe
+C:\Users\thewi\Documents\backdoor\bin\Debug\vlc-3.0.20-win64.pdb
+C:\Users\thewi\Documents\backdoor\obj\Debug\backdoor.csproj.AssemblyReference.cache
+C:\Users\thewi\Documents\backdoor\obj\Debug\vlc-3.0.20-win64.exe
+C:\Users\thewi\Documents\backdoor\obj\Debug\vlc-3.0.20-win64.pdb
